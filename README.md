@@ -33,9 +33,7 @@ Branch 2
 Store the same information using Python classes. We have an overall database which is a list of year objects. Each year contains a list of branches. Each branch contains a list of students. Each student has some properties like name, roll number and has marks in some subjects.
 
 **9.** Using matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.
-$$
-y = x
-$$
+$$y = x$$
 $y = x^{2}$
 
 $y = {x^3}/{100} $
