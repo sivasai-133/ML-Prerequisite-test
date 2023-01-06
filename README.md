@@ -33,7 +33,7 @@ Branch 2
 Store the same information using Python classes. We have an overall database which is a list of year objects. Each year contains a list of branches. Each branch contains a list of students. Each student has some properties like name, roll number and has marks in some subjects.
 
 **9.** Using matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.
-
+$$
 $y = x$
 
 $y = x^{2}$
@@ -47,7 +47,8 @@ $y = \sin(x)/x$
 $y = \log(x)$
 
 $y = e^{x}$
- 
+
+$$ 
 **10.** Using numpy generate a matrix of size 20X5 containing random numbers drawn uniformly from the range of 1 to 2. Using Pandas create a dataframe out of this matrix. Name the columns of the dataframe as “a”, “b”, “c”, “d”, “e”. Find the column with the highest standard deviation. Find the row with the lowest mean.
 
 **11.** Add a new column to the dataframe called “f” which is the sum of the columns “a”, “b”, “c”, “d”, “e”. Create another column called “g”. The value in the column “g” should be “LT8” if the value in the column “f” is less than 8 and “GT8” otherwise. Find the number of rows in the dataframe where the value in the column “g” is “LT8”. Find the standard deviation of the column “f” for the rows where the value in the column “g” is “LT8” and “GT8” respectively.
