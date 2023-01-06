@@ -34,21 +34,19 @@ Store the same information using Python classes. We have an overall database whi
 
 **9.** Using matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.
 
-'''
-y = x
-'''
+$y = x$
 
-$y=x^{2}$
+$y = x^{2}$
 
-"$y = {x^3}/{100} $"
+$y = {x^3}/{100} $
 
-"$ y = \sin(x)$"
+$ y = \sin(x)$
 
-"$y = \sin(x)/x$"
+$y = \sin(x)/x$
 
-"$y = \log(x)$"
+$y = \log(x)$
 
-"$y = e^{x}$"
+$y = e^{x}$
  
 **10.** Using numpy generate a matrix of size 20X5 containing random numbers drawn uniformly from the range of 1 to 2. Using Pandas create a dataframe out of this matrix. Name the columns of the dataframe as “a”, “b”, “c”, “d”, “e”. Find the column with the highest standard deviation. Find the row with the lowest mean.
 
