@@ -34,7 +34,7 @@ Store the same information using Python classes. We have an overall database whi
 
 **9.** Using matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.
 
-"$y=x$
+"$y=x$"
 
 "$y=x^{2}$"
 
