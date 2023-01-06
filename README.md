@@ -38,7 +38,7 @@ Store the same information using Python classes. We have an overall database whi
 y = x
 '''
 
-"$y=x^{2}$"
+$y=x^{2}$
 
 "$y = {x^3}/{100} $"
 
