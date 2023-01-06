@@ -2,21 +2,21 @@
 These are solutions to some of the prerequisite questions one should know before learning ML.
 
 # Questions
-**1** How many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.
+**1.** How many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.
 
-Write Python code to multiply the above two matrices. Solve using list of lists and then use numpy. Compare the timing of both solutions. Which one is faster? Why?
+**2.** Write Python code to multiply the above two matrices. Solve using list of lists and then use numpy. Compare the timing of both solutions. Which one is faster? Why?
 
-Finding the highest element in a list requires one pass of the array. Finding the second highest element requires 2 passes of the the array. Using this method, what is the time complexity of finding the median of the array? Can you suggest a better method? Can you implement both these methods in Python and compare against numpy.median routine in terms of time?
+**3.** Finding the highest element in a list requires one pass of the array. Finding the second highest element requires 2 passes of the the array. Using this method, what is the time complexity of finding the median of the array? Can you suggest a better method? Can you implement both these methods in Python and compare against numpy.median routine in terms of time?
 
-What is the gradient of the following function with respect to x and y?
+**4.** What is the gradient of the following function with respect to x and y?
 
-Use JAX to confirm the gradient evaluated by your method matches the analytical solution corresponding to a few random values of x and y
+**5.** Use JAX to confirm the gradient evaluated by your method matches the analytical solution corresponding to a few random values of x and y
 
-Use sympy to confirm that you obtain the same gradient analytically.
+**6.** Use sympy to confirm that you obtain the same gradient analytically.
 
-Create a Python nested dictionary to represent hierarchical information. We want to store record of students and their marks. Something like:
+**7.** Create a Python nested dictionary to represent hierarchical information. We want to store record of students and their marks. Something like:
 
-2022
+**8.** 2022
 Branch 1
 Roll Number: 1, Name: N, Marks:
 Maths: 100, English: 70 …
